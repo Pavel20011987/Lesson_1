@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{EBBAFBA7-C2B3-4FCC-953F-A662AC454258}</ProjectGuid>
+    <ProjectGuid>{14B2F079-0561-44F7-B2BD-FE20CC5F7A90}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Lesson_3</RootNamespace>
-    <AssemblyName>Lesson_3</AssemblyName>
+    <RootNamespace>Lesson_6</RootNamespace>
+    <AssemblyName>Lesson_6</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,9 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BattleShip_3_4.cs" />
-    <Compile Include="Lesson3_2.cs" />
-    <Compile Include="Lesson3_3.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
