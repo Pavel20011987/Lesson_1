@@ -11,7 +11,7 @@ namespace Lesson4_1
         static void Main(string[] args)
         {
             Console.WriteLine("Введите желаемые числа через пробел: ");
-            var sum = Console.ReadLine().Split().Select(int.Parse).Sum();
+            var sum = Console.ReadLine().Split().Select(int.Parse).Sum();//
             Console.WriteLine("Сумма введенных чисел равна : " + sum);
         }
 
