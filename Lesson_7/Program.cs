@@ -10,6 +10,9 @@ namespace Lesson_7
     {
         static void Main(string[] args)
         {
+            Console.WriteLine();
+
+            Properties.
         }
     }
 }
