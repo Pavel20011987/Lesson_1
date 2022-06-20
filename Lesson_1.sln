@@ -9,7 +9,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_2", "Lesson_2\Lesson
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_3", "Lesson_3\Lesson_3.csproj", "{EBBAFBA7-C2B3-4FCC-953F-A662AC454258}"
 EndProject
-
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
